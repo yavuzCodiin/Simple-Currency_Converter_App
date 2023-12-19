@@ -159,4 +159,6 @@ if __name__ == '__main__':
     window.show()
     sys.exit(app.exec_())
 ```
+If you want to understand this in a more simpler language you can check my Medium writing published on `Level Up Coding`
 
+LINK => https://levelup.gitconnected.com/currency-converter-app-with-apilayers-fixer-api-and-pyqt-framework-43b2e4292d09
